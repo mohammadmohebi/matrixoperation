@@ -1,4 +1,3 @@
-//  @author    Mohammad Mohebi
 //  @file      Matrix.hpp
 //
 
